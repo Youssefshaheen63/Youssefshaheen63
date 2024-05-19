@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=d68c20&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a CS Student and Front-End Developer
@@ -29,10 +29,12 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssefshaheen63&theme=great-gatsby&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefshaheen63&hide_progress=false&theme=great-gatsby)
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssefshaheen63&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Youssefshaheen63&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Youssefshaheen63&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Youssefshaheen63&style=for-the-badge&color=d68c20">
 </a>
+
