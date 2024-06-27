@@ -16,7 +16,7 @@
 <a href="www.linkedin.com/in/youssef-shaheen-063b47274" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/Youssefshaheen63" target="_blank"><img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
-### 🛠 &nbsp;Techs
+💻 **Languages and Tools:** 🛠️<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
