@@ -47,7 +47,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssefshaheen63&theme=great-gatsby&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefshaheen63&hide_progress=false&theme=great-gatsby)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssefshaheen63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="languages graph"  />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Youssefshaheen63&theme=great-gatsby&hide_border=false)<br/>
 
