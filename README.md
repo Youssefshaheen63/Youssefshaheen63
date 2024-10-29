@@ -9,7 +9,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/youssef-shaheen-063b47274" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-shaheen-825359287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/Youssefshaheen63" target="_blank"><img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
 💻 **Languages and Tools:** 🛠️<br>
