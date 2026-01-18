@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/youssef-shaheen-a0013036a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yossefshaheen" height="30" width="40" /></a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Youssef+Shaheen" alt="Youssef" /></a>
+            <P>          </P>            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Youssef+Shaheen" alt="Youssef" /></a>
 </p>
 
 <br/>
@@ -179,10 +179,3 @@
 <br><br>
 
 </div>
-
-<p align="center">
-
-<a href="https://github.com/Youssefshaheen63?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Youssefshaheen63's github-readme-stats"/></a>
-<a href="https://github.com/Youssefshaheen63?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Youssefshaheen63&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Youssefshaheen63's github-readme-streak-stats"/></a>
-
-</p>
