@@ -17,17 +17,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Youssefshaheen63?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Youssefshaheen63?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Youssefshaheen63?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Youssefshaheen63?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Youssefshaheen63/Simple-View-Counter">
-    </a>
-</p>
-
-<br/>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -179,3 +168,7 @@
 <br><br>
 
 </div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssefshaheen63&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssefshaheen63&theme=dark)
